@@ -71,7 +71,6 @@ public:
   void setClockDivider(uint32_t clockDiv);
 
   uint32_t getClockDivider();
-
   void beginTransaction(SPISettings settings);
   void endTransaction(void);
   void transfer(void *data, uint32_t size);
