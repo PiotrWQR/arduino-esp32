@@ -9,7 +9,7 @@ menu.CPUFreq=CPU Frequency
 menu.FlashFreq=Flash Frequency
 menu.FlashMode=Flash Mode
 menu.FlashSize=Flash Size
-menu.PartitionScheme=Partition Scheme
+menu.PartitionScheme=zigbee
 menu.DebugLevel=Core Debug Level
 menu.PSRAM=PSRAM
 menu.LoopCore=Arduino Runs On
@@ -17,7 +17,7 @@ menu.EventsCore=Events Run On
 menu.MemoryType=Memory Type
 menu.EraseFlash=Erase All Flash Before Sketch Upload
 menu.JTAGAdapter=JTAG Adapter
-menu.ZigbeeMode=Zigbee Mode
+menu.ZigbeeMode=ed
 menu.PinNumbers=Pin Numbering
 
 # Custom options
@@ -737,7 +737,7 @@ esp32c6.menu.EraseFlash.none.upload.erase_cmd=
 esp32c6.menu.EraseFlash.all=Enabled
 esp32c6.menu.EraseFlash.all.upload.erase_cmd=-e
 
-esp32c6.menu.ZigbeeMode.default=Disabled
+esp32c6.menu.ZigbeeMode.default=Enable
 esp32c6.menu.ZigbeeMode.default.build.zigbee_mode=
 esp32c6.menu.ZigbeeMode.default.build.zigbee_libs=
 esp32c6.menu.ZigbeeMode.ed=Zigbee ED (end device)
