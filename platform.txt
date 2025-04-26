@@ -87,7 +87,7 @@ build.extra_flags.esp32p4=-DARDUINO_USB_MODE={build.usb_mode} -DARDUINO_USB_CDC_
 
 # This can be overriden in boards.txt
 build.zigbee_mode=-DZIGBEE_MODE_ED
-build.zigbee_libs=-DZIGBEE_MODE_ED
+build.zigbee_libs=
 build.flash_size=4MB
 build.flash_mode=dio
 build.flash_freq=80m

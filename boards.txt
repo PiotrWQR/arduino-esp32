@@ -737,7 +737,7 @@ esp32c6.menu.EraseFlash.none.upload.erase_cmd=
 esp32c6.menu.EraseFlash.all=Enabled
 esp32c6.menu.EraseFlash.all.upload.erase_cmd=-e
 
-esp32c6.menu.ZigbeeMode.default=Enable
+esp32c6.menu.ZigbeeMode.default=Disabled
 esp32c6.menu.ZigbeeMode.default.build.zigbee_mode=
 esp32c6.menu.ZigbeeMode.default.build.zigbee_libs=
 esp32c6.menu.ZigbeeMode.ed=Zigbee ED (end device)
