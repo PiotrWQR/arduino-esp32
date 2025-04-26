@@ -17,7 +17,7 @@ menu.EventsCore=Events Run On
 menu.MemoryType=Memory Type
 menu.EraseFlash=Erase All Flash Before Sketch Upload
 menu.JTAGAdapter=JTAG Adapter
-menu.ZigbeeMode=ed
+menu.ZigbeeMode=-DZIGBEE_MODE_ED
 menu.PinNumbers=Pin Numbering
 
 # Custom options
